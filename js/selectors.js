@@ -1,4 +1,4 @@
 function paragraphSelector() {
- var paragraph = ${'p'}
+ var paragraph = document.getElementsByTagName('p')
   return paragraph
 }// declare your functions here...
