@@ -8,8 +8,4 @@ function lastImageSelector() {
 
   return lastImage
 }
-function ninjaBabySelector() {
-   var ninjaBaby = ${'#baby-ninja'}
 
-   return ninjaBaby
-}
