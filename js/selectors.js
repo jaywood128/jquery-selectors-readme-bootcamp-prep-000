@@ -18,3 +18,8 @@ function lastImageSelector() {
 
    return divPicker
  }
+ function firstListItem() {
+   var firstItem = $('ul li:first-child')
+
+   return firstItem
+ }
