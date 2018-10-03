@@ -13,8 +13,8 @@ function lastImageSelector() {
 
    return ninjaBaby
  }
- function divSelector() {
-   var divPicker = $(.pics)
+ function divSelector() { 
+   var divPicker = $('.pics')
 
    return divPicker
  }
