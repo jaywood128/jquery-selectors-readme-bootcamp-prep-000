@@ -8,4 +8,3 @@ function lastImageSelector() {
 
   return lastImage
 }
-
